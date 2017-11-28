@@ -1,2 +1,5 @@
-# VR-Design-House
-The House Course Asset used in the VR Design Course for VRND
+# VR Design House
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+## Versions
+- Unity 2017.2.0f3
