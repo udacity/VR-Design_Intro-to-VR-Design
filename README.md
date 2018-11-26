@@ -10,8 +10,8 @@ This course asset includes a Unity project with a basic scene illustrating the i
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
-- [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
+- [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
 - [Baker's House](https://assetstore.unity.com/packages/3d/environments/fantasy/baker-s-house-26443) v1.2
 
 
@@ -39,7 +39,7 @@ This course asset includes a Unity project with a basic scene illustrating the i
 - `GoogleVR` > `GVRVideoPlayer.unitypackage` is not included.
 - Scripts applicable to the course have been updated to reflect Unity's API change from `UnityEngine.VR` to `UnityEngine.XR`.
 
->**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.100.1, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
+>**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.170.0, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
 
 
 ### Related Repositories
